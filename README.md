@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000CD&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000cd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ana+Raquel;I'm+42+years+old;I+am+from+Recife,+PE;I+study+Java+systems+development+at+Fuctura+Tecnologia;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000cd&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Ana+Raquel;I'm+42+years+old;I+am+from+Recife,+PE;I+study+Java+development+at+Fuctura+Tecnologia;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anaraquel00&show_icons=true&count_private=true&hide_border=true&title_color=#0000CD&icon_color=#0000CD&text_color=c9d1d9&bg_color=#0000CD" alt="Ana Raquel de Holanda github stats" /> 
