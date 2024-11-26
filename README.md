@@ -1,7 +1,7 @@
 # 👩‍💻 Bem-vindo ao meu perfil do GitHub! 
 
 **🎉 Olá! Meu nome é Ana Raquel.**
-Sou iniciante da **Academia Java** da Escola **Fuctura Tecnologia**. 🚀  
+Sou iniciante na área da programação e estudo o curso Java na **Academia Java** da Escola **Fuctura Tecnologia**. 🚀  
 ✨ Tenho 42 anos e acredito que nunca é tarde para descobrir novas tecnologias! 💻  
 
 Siga-me nesta jornada para explorar o universo da programação e compartilhar aprendizados! 🌟
