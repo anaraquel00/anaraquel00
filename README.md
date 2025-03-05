@@ -23,3 +23,4 @@ No meu https://roadmap.sh/java está o meu percurso de aprendizado em Java.
 
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![HTML5](#E34F26)
