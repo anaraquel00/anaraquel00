@@ -23,5 +23,6 @@ No meu https://roadmap.sh/java está o meu percurso de aprendizado em Java.
 
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![HTML5](https://img.icons8.com/?size=100&id=750nXG40bbAS&format=png&color=000000)
-![CSS3](https://img.icons8.com/?size=100&id=102501&format=png&color=000000)
+ <img src="https://img.icons8.com/?size=100&id=750nXG40bbAS&format=png&color=000000" width="50" title="Html5"/>
+ <img src= "https://img.icons8.com/?size=100&id=102501&format=png&color=000000" width="50" title="CSS3"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring Boot 3.2"/>
