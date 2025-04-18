@@ -18,7 +18,6 @@ No meu https://roadmap.sh/java está o meu percurso de aprendizado em Java.
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
  
 
 ### Studying in this moment:
