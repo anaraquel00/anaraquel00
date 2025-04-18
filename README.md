@@ -22,7 +22,9 @@ No meu https://roadmap.sh/java está o meu percurso de aprendizado em Java.
  
 
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
- <img src="https://img.icons8.com/?size=100&id=750nXG40bbAS&format=png&color=000000" width="50" title="Html5"/>
- <img src= "https://img.icons8.com/?size=100&id=102501&format=png&color=000000" width="50" title="CSS3"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" title="Spring Boot 3.2"/>
+![Java](https://img.shields.io/badge/Java-17-%23ED8B00?logo=openjdk)
+![Spring](https://img.shields.io/badge/Spring_Boot-3.1.5-%236DB33F?logo=spring)
+![Angular](https://img.shields.io/badge/Angular-15-%23DD0031?logo=angular)
+![MySQL](https://img.shields.io/badge/MySQL-8.0-%234479A1?logo=mysql)
+![Postman](https://img.shields.io/badge/Postman-API_Testing-%23FF6C37?logo=postman)
+
