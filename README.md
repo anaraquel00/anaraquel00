@@ -5,7 +5,9 @@ Sou iniciante na área da programação e estudo o curso Java na **Academia Java
 ✨ Tenho 42 anos e acredito que nunca é tarde para descobrir novas tecnologias! 💻  
 
 Siga-me nesta jornada para explorar o universo da programação e compartilhar aprendizados! 🌟
-No meu https://roadmap.sh/java está o meu percurso de aprendizado em Java.
+No meu perfil na Dio:
+### 🏆 Certificações  
+[![DIO](https://img.shields.io/badge/DIO-Profile-blue)](https://www.dio.me/users/anaraquel00)   aqui está o meu percurso de aprendizado em Java e outras tecnologias.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anaraquel00&bg_color=#0000CD&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
