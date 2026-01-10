@@ -45,19 +45,13 @@ Minha caixa de ferramentas é agnóstica e adaptável, mas aqui está onde eu br
 ![Postman](https://img.shields.io/badge/Postman-API_Test-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 📊 GitHub Stats
+---
 
-<!-- Opção 1: Stats Simplificados (Mais leve) -->
-![Anaraquel's Stats](https://github-readme-stats.vercel.app/api?username=anaraquel00&show_icons=true&theme=dracula&hide=html)
+### 📊 Coding Activity
 
-<!-- Opção 2: Linguagens mais usadas (Versão compacta) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaraquel00&layout=compact&theme=dracula)
-
-<!-- Opção 3: Streak Stats (Fogo!) - Esse quase nunca falha e é lindo -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anaraquel00&theme=dracula)
-
-<!-- O Gráfico de Atividade (Que já funcionou e está lindo) -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anaraquel00&bg_color=1e1e2e&color=bd93f9&line=ff79c6&point=ffb86c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 ### 🌟 Learning Path
 Embora eu tenha bases sólidas na **Fuctura Tecnologia** e certificações pela **DIO**, acredito que o melhor diploma é o **Código em Produção**.
@@ -65,4 +59,4 @@ Atualmente aprofundando estudos em:
 - **Clean Architecture** aplicada ao Frontend.
 - **Machine Learning Integration** para ambientes web.
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/SEU-LINK-AQUI) | [RaQuel Synths](https://raquelsynths.com.br)
+📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/anaraquelholanda/) | [RaQuel Synths](https://raquelsynths.com.br)
