@@ -45,22 +45,14 @@ Minha caixa de ferramentas é agnóstica e adaptável, mas aqui está onde eu br
 ![Postman](https://img.shields.io/badge/Postman-API_Test-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/anaraquel00">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaraquel00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaraquel00&layout=compact&theme=dracula"/>
-  </a>
-</div>
+![Stats da Ana Raquel](https://github-readme-stats.vercel.app/api?username=anaraquel00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anaraquel00&theme=dracula&row=1&column=4&no-bg=true&margin-w=15" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaraquel00&layout=compact&theme=dracula)
 
----
+<!-- Gráfico de Atividade que você já tinha e funciona bem -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anaraquel00&bg_color=1e1e2e&color=bd93f9&line=ff79c6&point=ffb86c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🌟 Learning Path
 Embora eu tenha bases sólidas na **Fuctura Tecnologia** e certificações pela **DIO**, acredito que o melhor diploma é o **Código em Produção**.
