@@ -47,11 +47,16 @@ Minha caixa de ferramentas é agnóstica e adaptável, mas aqui está onde eu br
 
 ### 📊 GitHub Stats
 
-![Stats da Ana Raquel](https://github-readme-stats.vercel.app/api?username=anaraquel00&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+<!-- Opção 1: Stats Simplificados (Mais leve) -->
+![Anaraquel's Stats](https://github-readme-stats.vercel.app/api?username=anaraquel00&show_icons=true&theme=dracula&hide=html)
 
+<!-- Opção 2: Linguagens mais usadas (Versão compacta) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaraquel00&layout=compact&theme=dracula)
 
-<!-- Gráfico de Atividade que você já tinha e funciona bem -->
+<!-- Opção 3: Streak Stats (Fogo!) - Esse quase nunca falha e é lindo -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anaraquel00&theme=dracula)
+
+<!-- O Gráfico de Atividade (Que já funcionou e está lindo) -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anaraquel00&bg_color=1e1e2e&color=bd93f9&line=ff79c6&point=ffb86c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### 🌟 Learning Path
