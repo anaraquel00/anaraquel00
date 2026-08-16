@@ -1,62 +1,139 @@
-# 👩‍💻 Hello World! Eu sou Ana Raquel.
-### Software Engineer | Full-Stack Developer | AI Solutions Architect
+# Ana Raquel de Holanda Barros
 
-> *"Building digital ecosystems where Code meets Art."*
+### Creative Technology Developer | Angular & TypeScript | Audio Software | Digital Products
 
-Seja bem-vindo(a)! Sou uma desenvolvedora focada em transformar lógica de negócios complexa em soluções elegantes. Minha jornada na programação é movida pela curiosidade de "Life-Long Learner" e pela resiliência de quem sabe que a tecnologia não tem idade, tem propósito.
+I build digital products at the intersection of **software engineering, music and creative technology**.
 
-Atualmente, atuo como **Tech Lead e Desenvolvedora Full-Stack** do projeto **RaQuel Synths (RQS)**, um ecossistema multimídia que integra Música, IA Generativa e E-commerce.
+My current work is centered on two connected projects inside the **RaQuel Synths** ecosystem:
 
----
+- **RQS Studio** — a web-based audio software product built with Angular, TypeScript and browser audio technologies, integrated with Node.js/Python processing services.
+- **RaQuel Synths Web Ecosystem** — a bilingual transmedia platform combining interactive storytelling, dynamic content, technical SEO, Firebase/Firestore and serverless integrations.
 
-### 🚀 O Que Eu Faço (Current Projects)
-
-🔹 **Founder & Lead Dev @ [RaQuel Synths](https://raquelsynths.com.br)**
-Um projeto de engenharia criativa que utiliza:
-- **Automação de Dados:** Workflows em **N8N** e scripts **Python** para integração com **Spotify API** e gestão de ativos digitais.
-- **Frontend Moderno:** Aplicação em **Angular 20+** utilizando **Signals**, Standalone Components e Clean Architecture.
-- **Monetização:** Módulo "Neon Store" customizado para Marketing de Afiliados e UX Dinâmica.
-- **Generative AI:** Engenharia de Prompt para produção musical (SunoAI) e visual (Midjourney).
+I am currently evolving RQS Studio toward a more structured **B2B SaaS direction**, while keeping a clear distinction between what is already implemented and what still requires hardening around multi-tenancy, authorization, billing and observability.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+## Current Focus
 
-Minha caixa de ferramentas é agnóstica e adaptável, mas aqui está onde eu brilho:
+### RQS Studio — Web-Based Audio Software
 
-**Backend & Core:**
-![Java](https://img.shields.io/badge/Java-17-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.1.5-%236DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white)
+RQS Studio combines a browser-facing Angular application with backend audio-processing services.
 
-**Frontend & Mobile:**
-![Angular](https://img.shields.io/badge/Angular-20%2B-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-Logic-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SCSS](https://img.shields.io/badge/Sass-Style-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+Current product areas include:
 
-**Database & Cloud:**
-![MySQL](https://img.shields.io/badge/MySQL-Data-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![N8N](https://img.shields.io/badge/N8N-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+- S3-backed audio upload workflows
+- mastering previews and final master delivery
+- Web Audio A/B comparison
+- setlist creation and rendering
+- stem-separation requests
+- authentication and account state
+- deep-link tooling for music platforms
 
-**DevOps & Tools:**
-![Git](https://img.shields.io/badge/Git-Versioning-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-API_Test-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**Frontend:** Angular 20, TypeScript, RxJS, Angular Signals, Web Audio API, Supabase
 
----
+**Backend / Processing:** Node.js, Express, Python, FFmpeg, Demucs, AWS S3
 
-### 📊 Coding Activity
+> RQS Studio is an actively developed independent product. I do not describe it as a mature B2B SaaS platform yet; organization-level tenancy, enterprise authorization, complete subscription lifecycle handling, observability and related hardening are still being developed or validated.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=anaraquel00&bg_color=1e1e2e&color=bd93f9&line=ff79c6&point=ffb86c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+**Product:** https://studio.raquelsynths.com/app  
+**Frontend:** https://github.com/anaraquel00/rqs-daw-frontend  
+**Backend:** https://github.com/anaraquel00/rqs-daw-backend
 
 ---
 
-### 🌟 Learning Path
-Embora eu tenha bases sólidas na **Fuctura Tecnologia** e certificações pela **DIO**, acredito que o melhor diploma é o **Código em Produção**.
-Atualmente aprofundando estudos em:
-- **Clean Architecture** aplicada ao Frontend.
-- **Machine Learning Integration** para ambientes web.
+### RaQuel Synths — Creative Technology Web Ecosystem
 
-📫 **Let's Connect:** [LinkedIn](https://www.linkedin.com/in/anaraquelholanda/) | [RaQuel Synths](https://raquelsynths.com.br)
+RaQuel Synths started as an experimental intersection of web development, storytelling and AI-assisted music creation, and evolved into a broader Creative Technology platform.
+
+The current web ecosystem includes:
+
+- Angular 20
+- Firebase / Firestore
+- SSR and prerendering
+- PWA / service worker support
+- dynamic sitemap generation
+- structured SEO metadata and JSON-LD
+- serverless contact and subscription endpoints
+- bilingual PT/EN experiences
+- interactive storytelling and music-related content
+
+**Website:** https://raquelsynths.com  
+**Creative Technology Portfolio:** https://raquelsynths.com/creator  
+**Repository:** https://github.com/anaraquel00/raquel-synths
+
+---
+
+## Selected Earlier Project
+
+### Rock Composer AI — Lyrics & Chord Generation Prototype
+
+An early experimental prototype built with **Python, Hugging Face Transformers and Gradio** to generate structured song lyrics and basic chord progressions from user-defined parameters.
+
+The project was later discontinued as general-purpose generative AI tools became substantially more capable for lyric-generation workflows. I keep it as part of my portfolio because it documents an early exploration of the intersection between **software, generative AI and music**.
+
+**Repository:** https://github.com/anaraquel00/rock-composer-ai
+
+---
+
+## Technical Stack
+
+### Frontend
+
+`Angular 20` · `TypeScript` · `RxJS` · `Angular Signals` · `JavaScript` · `HTML` · `SCSS` · `Web Audio API`
+
+### Backend & APIs
+
+`Node.js` · `Express` · `Python` · `Java` · `Spring Boot` · `REST APIs`
+
+### Audio & Media
+
+`FFmpeg` · `Demucs` · `pyloudnorm` · `SoundFile` · `Pedalboard` · `LUFS-based workflows`
+
+### Data & Cloud
+
+`Firebase` · `Cloud Firestore` · `Supabase` · `PostgreSQL` · `MySQL` · `AWS S3`
+
+### Engineering
+
+`Git` · `GitHub` · `Pull Requests` · `GitHub Actions` · `Docker` · `Postman`
+
+---
+
+## Collaboration & Engineering Practice
+
+RQS Studio is giving me practical experience working collaboratively across separate frontend and backend repositories through:
+
+- Pull Requests
+- code review
+- integration checks
+- pre-merge validation
+- DSP safety and regression considerations
+- evidence-based technical documentation
+
+I try to keep a strict distinction between:
+
+- a feature that exists in the UI;
+- a feature that is fully integrated;
+- a security control that is actually enforced server-side;
+- and a roadmap item that is not yet a production capability.
+
+---
+
+## Background
+
+My original academic background is in **International Relations**, complemented by international experience in France and later structured software-development training covering **Java, PostgreSQL, Spring Boot and Angular**.
+
+That transition evolved from guided learning and small training projects into independently developed products that now span frontend engineering, backend integration, cloud workflows and audio software.
+
+---
+
+## Connect
+
+- **LinkedIn:** https://www.linkedin.com/in/ana-raquel-de-holanda
+- **Portfolio:** https://raquelsynths.com/creator
+- **RQS Studio:** https://studio.raquelsynths.com/app
+- **RaQuel Synths:** https://raquelsynths.com
+
+---
+
+> **Current professional direction:** Creative Technology · Angular / Frontend Engineering · MusicTech · Audio Software · Product Engineering · SaaS
